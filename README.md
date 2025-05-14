@@ -1,3 +1,3 @@
 # demo
 this is demo
-author - madhu
+author - madhu sathvika
